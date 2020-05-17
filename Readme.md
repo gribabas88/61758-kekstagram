@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Алексей Е.](https://up.htmlacademy.ru/nodejs/2/user/61758).
-* Наставник: `Неизвестно`.
+* Наставник: `Билл Гейтс`.
 
 ---
 
